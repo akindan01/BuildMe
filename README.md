@@ -3,7 +3,7 @@
 BuildMe is a modern real estate web application designed to make property discovery, management, and connection between buyers, sellers, and agents simple and accessible.
 It provides users with an elegant interface to explore properties, save listings, and manage profiles — all in one place.
 
-🚀 Features
+Features
 
  Explore Properties — View available listings with detailed information and smart filtering.
 
