@@ -1060,12 +1060,4 @@ const ProfilePlaceholder = () => {
   );
 };
 
-
-const NotFoundPlaceholder = () => (
-  <div className="bg-white rounded-xl shadow-sm p-8 text-center">
-    <h3 className="text-2xl font-bold text-gray-800 mb-2">404 - Page Not Found</h3>
-    <p className="text-gray-600">The page you're looking for doesn't exist</p>
-  </div>
-);
-
 export default Dashboard;
